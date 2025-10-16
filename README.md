@@ -2,7 +2,7 @@
 ### A project based on **B.O.D (Batwave Object Detective Car)**  
 
 <p align="center">
-  <img src="BatwaveDemo/BOD_Ultra.jpg" alt="Project Preview" width="600">
+  <img src="BatwaveDemo/BOD_Ultra.jpg" alt="Project Preview" width="700">
 </p>
 
 ---
