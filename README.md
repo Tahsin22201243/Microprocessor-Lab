@@ -1,5 +1,5 @@
-# 🧠 Microprocessor-Lab  
-### A project based on **B.O.D (Batwave Object Detective Car)**  
+# 🧠 BOD (Batwave Object Detective Car)
+### A project based on Microprocessors & Microcontrollers****  
 
 <p align="center">
   <img src="BatwaveDemo/BOD_Ultra.jpg" alt="Project Preview" width="700">
